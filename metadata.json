@@ -1,0 +1,8 @@
+{
+  "name": "HeliSocial",
+  "description": "Standalone multi-tenant creator-business management platform, AI content studio, and social community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
